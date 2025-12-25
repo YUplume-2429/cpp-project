@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/map1.png</file>
+        <file>images/map2.png</file>
+        <file>images/map3.png</file>
+        <file>images/SnakeHead1.png</file>
+        <file>images/SnakeBody1.png</file>
+        <file>images/SnakeHead2.png</file>
+        <file>images/SnakeBody2.png</file>
+        <file>images/Food.png</file>
+        <file>images/GoldenFood.png</file>
+        <file>images/Barrier.png</file>
+        <file>images/SpeedUp.jpg</file>
+        <file>images/SnakeHead3.png</file>
+        <file>images/SnakeBody3.png</file>
+        <file>images/map1_background.png</file>
+        <file>images/map2_background.png</file>
+        <file>images/SpeedDown.jpg</file>
+        <file>images/map3_background.png</file>
+        <file>images/cover1.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/boom">
+        <file>images/boom/blast1.gif</file>
+        <file>images/boom/blast2.gif</file>
+        <file>images/boom/blast3.gif</file>
+        <file>images/boom/blast4.gif</file>
+        <file>images/boom/blast5.gif</file>
+        <file>images/boom/blast6.gif</file>
+        <file>images/boom/blast7.gif</file>
+        <file>images/boom/blast8.gif</file>
+    </qresource>
+    <qresource prefix="/bullet">
+        <file>images/bullet/bullet.png</file>
+    </qresource>
+    <qresource prefix="/bullet_boom">
+        <file>images/bullet_boom/bomb_1.gif</file>
+        <file>images/bullet_boom/bomb_2.gif</file>
+        <file>images/bullet_boom/bomb_3.gif</file>
+    </qresource>
+    <qresource prefix="/enemy">
+        <file>images/enemy/enemy1D.gif</file>
+        <file>images/enemy/enemy1L.gif</file>
+        <file>images/enemy/enemy1R.gif</file>
+        <file>images/enemy/enemy1U.gif</file>
+        <file>images/enemy/enemy2D.gif</file>
+        <file>images/enemy/enemy2L.gif</file>
+        <file>images/enemy/enemy2R.gif</file>
+        <file>images/enemy/enemy2U.gif</file>
+    </qresource>
+    <qresource prefix="/hero">
+        <file>images/hero/hero1D.gif</file>
+        <file>images/hero/hero1L.gif</file>
+        <file>images/hero/hero1R.gif</file>
+        <file>images/hero/hero1U.gif</file>
+    </qresource>
+    <qresource prefix="/walls">
+        <file>images/walls/0.png</file>
+        <file>images/walls/1.png</file>
+        <file>images/walls/2.png</file>
+        <file>images/walls/3.png</file>
+        <file>images/walls/4.png</file>
+        <file>images/walls/5.png</file>
+    </qresource>
+    <qresource prefix="/menu">
+        <file>images/menu/menu.png</file>
+    </qresource>
+</RCC>

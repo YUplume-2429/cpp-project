@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/snake.png</file>
+        <file>images/tankbattle.png</file>
+        <file>images/sudoku.png</file>
+        <file>images/gomoku.png</file>
+        <file>images/minesweeper.png</file>
+        <file>images/ZombieMob.png</file>
+    </qresource>
+</RCC>
